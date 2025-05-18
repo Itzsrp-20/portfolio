@@ -324,7 +324,7 @@ body{
     display: flex;
     padding: 5vi;
     padding-left: 2vi;
-    gap: 15%;
+    gap: 5vi;
 }
 
 .head-one{
