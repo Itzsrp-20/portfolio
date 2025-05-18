@@ -765,6 +765,7 @@ body{
         display: flex;
         gap: 20px;
         flex-direction: row;
+        padding-left:10px;
     }
     .footer-address{
         display: flex;
