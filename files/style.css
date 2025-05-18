@@ -484,6 +484,12 @@ body{
 
 
 @media(max-width:600px){
+    .options{
+        display: flex;
+        flex-direction: row-reverse !important;
+        gap: 5px;
+        align-items: center;
+    }
     .intro{
         padding-left: 1.5rem!important;
         padding-bottom: 30%;
@@ -599,6 +605,9 @@ body{
         padding-top: 0px;
         padding-right: 0px!important;
     }
+    .education-school{
+        display:none;
+    }
     .hidden-classes{
         display: none;
     }
@@ -652,7 +661,7 @@ body{
         font-style: normal;
     }
     .head-two{
-        font-size: 160px;
+        font-size: 100px;
         line-height: 100px;
         font-family: "Sansita", sans-serif;
         font-weight: 500;
