@@ -488,7 +488,16 @@ body{
         display: flex;
         flex-direction: row-reverse !important;
         gap: 5px;
+        height:10%;
+        font-size:20px;
         align-items: center;
+    }
+    .buttons{ 
+        font-size: 0.6rem;
+    }
+    .nav_mouse_over{
+        color: #c67ce1;
+        font-size: 0.8rem;
     }
     .intro{
         padding-left: 1.5rem!important;
@@ -749,13 +758,13 @@ body{
         font-weight: 500;
         font-style: normal;
         color: white;
-        font-size: 12px;
+        font-size: 10px;
         padding-right:5px ;
     }
     .footer-container{
         display: flex;
         gap: 20px;
-        flex-direction: row-reverse;
+        flex-direction: row;
     }
     .footer-address{
         display: flex;
