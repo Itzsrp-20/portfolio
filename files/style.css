@@ -770,6 +770,7 @@ body{
         display: flex;
         flex-direction: column;
         gap: 2px;
+        padding-left:10px;
     }
     .footer-details{
         display: flex;
