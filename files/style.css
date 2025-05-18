@@ -324,7 +324,7 @@ body{
     display: flex;
     padding: 5vi;
     padding-left: 2vi;
-    gap: 5%;
+    gap: 15%;
 }
 
 .head-one{
@@ -432,7 +432,6 @@ body{
 .footer{
     display: flex;
     flex-direction: column;
-    height: 23vi;
     background-image: url("../images/footer-background-1.jpg");
     background-position: center;
     background-repeat: no-repeat;
